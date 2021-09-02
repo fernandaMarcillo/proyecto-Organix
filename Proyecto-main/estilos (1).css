@@ -1,0 +1,18 @@
+body{
+    background: url(platano.jpg);
+    text-align:center;
+    top: 100%;
+}
+.container {
+  background: #6fe475;
+  margin: -5 -5 1rem;
+  height: 10rem;
+  display: flex;
+  margin: 150px 0 0 0;
+}
+.center-h {
+  justify-content: center;
+}
+.center-v {
+  align-items: center;
+}

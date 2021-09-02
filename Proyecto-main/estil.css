@@ -1,0 +1,16 @@
+body{
+    background: url(platano.jpg);
+    text-align:center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    size: 40px;
+    
+}
+
+.Calculadora {
+  background-color:  #d4d658;  
+  width: 400px;
+  height: 250px;
+  border-radius: 25px;
+  margin: -215px 475px;
+  
+}
